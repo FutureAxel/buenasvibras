@@ -1,6 +1,7 @@
 # Buenas Vibras web
 
-It is a web site for a real bussines, a hair saloon. I have used HTML, CSS and Boostrap. You can visit it here 
+It is a web site for a real bussines, a hair saloon. I have used HTML, CSS and Boostrap. You can visit it here
+https://futureaxel.github.io/buenasvibras/
 
 ## Credits
 
